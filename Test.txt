@@ -1,0 +1,3 @@
+New Test File
+Changed file
+This change is from master
